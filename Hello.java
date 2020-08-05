@@ -1,3 +1,5 @@
 public class Hello{
-	public static void main(){}
+	public static void main(){
+		system.out.println();
+	}
 }
