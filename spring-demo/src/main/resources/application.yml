@@ -1,0 +1,13 @@
+
+#stu:
+ # name: 张三
+  #age: 26
+
+
+teacher:
+  name: 小李
+  age: 20
+
+spring:
+  profiles:
+    active: dev #开发
